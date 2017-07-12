@@ -25,7 +25,10 @@ oMMMN.   .NMm/MN`   dMMy`mMMm.
                 
 -------- Wordpress Grabber v0.2 --------
 For r00tw0rm members only! No Leechers!!
-
+# you are a leecher :) this is my project and i made this tool :'(
+#wh0am!
+#CLAYTeaM
+#Peace_Leecher :'( hahahaha
 
 [*] Usage : python '''+sys.argv[0]+''' 127.0.0.1
 '''
